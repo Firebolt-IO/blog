@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+snippet: "One wird trick that makes people go cray cray. Sometimes. Always."
+thumbnail: "http://placekitten.com/250/175"
 date:   2014-04-12 11:45:04
 categories: jekyll update
 ---
